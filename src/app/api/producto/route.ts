@@ -31,44 +31,44 @@ export async function DELETE(req: NextRequest){
 let productos = [
     {
         Id: 1,
-        Nombre: "Producto 1",
-        Descripcion: "Producto descripcion",
-        Costo: 300
+        Nombre: "Rollo",
+        Descripcion: "papel higienico",
+        Costo: 111
     },
     {
         Id: 2,
-        Nombre: "Producto 2",
-        Descripcion: "Producto descripcion",
-        Costo: 300
+        Nombre: "Gel",
+        Descripcion: "Gel para el pelo",
+        Costo: 120
     },
     {
         Id: 3,
-        Nombre: "Producto 3",
-        Descripcion: "Producto descripcion",
+        Nombre: "clayolas",
+        Descripcion: "Colorear",
         Costo: 300
     },
     {
         Id: 4,
-        Nombre: "Producto 4",
-        Descripcion: "Producto descripcion",
-        Costo: 300
+        Nombre: "pañales",
+        Descripcion: "pañales para bebe",
+        Costo: 350
     },
     {
         Id: 5,
-        Nombre: "Producto 5",
-        Descripcion: "Producto descripcion",
-        Costo: 300
+        Nombre: "corta uñas",
+        Descripcion: "recorte de uñas",
+        Costo: 310
     },
     {
         Id: 6,
-        Nombre: "Producto 6",
-        Descripcion: "Producto descripcion",
-        Costo: 300
+        Nombre: "Peine",
+        Descripcion: "Acomodo de pelo",
+        Costo: 110
     },
     {
         Id: 7,
-        Nombre: "Producto 7",
-        Descripcion: "Producto descripcion",
-        Costo: 300
+        Nombre: "ligas para pelo",
+        Descripcion: "ligas para el pelo",
+        Costo: 50
     }
 ]
